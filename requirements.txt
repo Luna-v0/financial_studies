@@ -1,0 +1,6 @@
+python-bcb
+scikit-learn
+scipy
+tabula-py
+pandas
+seaborn
